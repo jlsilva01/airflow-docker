@@ -7,6 +7,7 @@ Link da referência: [https://www.youtube.com/watch?v=aTaytcxy2Ck](https://www.y
 Comandos utilizados:
 
 ```bash copy
+docker-compose up airflow-init
 docker-compose up
 docker-compose down
 ```
